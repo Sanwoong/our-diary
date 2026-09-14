@@ -6,7 +6,9 @@
     "#왔다"
   ],
   "content": "곰토끼네가 개장했어요! 두근두근 햅삐 유화예요.",
-  "images": [],
+  "images": [
+    "images/2026-09-14/member-1789391272279-1789391600563-entry.png"
+  ],
   "checklist": {
     "sleepHours": null,
     "medication": false,
@@ -18,5 +20,5 @@
   "reactions": {},
   "comments": [],
   "createdAt": "2026-09-14T13:09:19.022Z",
-  "updatedAt": "2026-09-14T13:12:13.452Z"
+  "updatedAt": "2026-09-14T13:13:21.954Z"
 }
