@@ -18,7 +18,15 @@
     "밥-먹기": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "481c2c94-a204-4bbd-9b89-6924e1282a73",
+      "author": "산웅",
+      "text": "화야 왔다~",
+      "image": null,
+      "createdAt": "2026-09-14T13:16:34.148Z"
+    }
+  ],
   "createdAt": "2026-09-14T13:09:19.022Z",
-  "updatedAt": "2026-09-14T13:13:21.954Z"
+  "updatedAt": "2026-09-14T13:16:34.148Z"
 }
