@@ -12,10 +12,11 @@
     "medication": false,
     "outing": true,
     "cleaning": true,
-    "delivery": true
+    "delivery": true,
+    "밥-먹기": true
   },
   "reactions": {},
   "comments": [],
   "createdAt": "2026-09-14T13:09:19.022Z",
-  "updatedAt": "2026-09-14T13:09:26.826Z"
+  "updatedAt": "2026-09-14T13:12:13.452Z"
 }
