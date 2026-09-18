@@ -23,7 +23,15 @@
       "산웅"
     ]
   },
-  "comments": [],
+  "comments": [
+    {
+      "id": "8afd5a88-c2ca-4e81-ae64-b63a1ca333d4",
+      "author": "산웅",
+      "text": "부인이 푹 잘 수 있다면 언제든지!",
+      "image": null,
+      "createdAt": "2026-09-18T08:48:22.340Z"
+    }
+  ],
   "createdAt": "2026-09-16T04:24:34.039Z",
-  "updatedAt": "2026-09-18T08:48:02.577Z"
+  "updatedAt": "2026-09-18T08:48:22.340Z"
 }
