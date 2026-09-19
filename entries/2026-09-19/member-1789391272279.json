@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "author": "member-1789391272279",
+  "moodTags": [
+    "#부지런"
+  ],
+  "content": "오늘 완전 부지런했던 하루! 내일도 부지런하게 움직일 거예요. 아자아자.",
+  "images": [],
+  "checklist": {
+    "sleepHours": null,
+    "medication": false,
+    "outing": true,
+    "cleaning": false,
+    "delivery": false,
+    "밥-먹기": true
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-19T14:57:30.920Z",
+  "updatedAt": "2026-09-19T14:57:32.106Z"
+}
