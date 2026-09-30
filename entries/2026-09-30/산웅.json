@@ -12,7 +12,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "830d6413-b76e-4717-8c53-df6451cb8ebe",
+      "author": "member-1789391272279",
+      "text": "부인 등장.",
+      "image": null,
+      "createdAt": "2026-09-30T09:12:02.879Z"
+    }
+  ],
   "createdAt": "2026-09-30T09:10:26.648Z",
-  "updatedAt": "2026-09-30T09:10:45.805Z"
+  "updatedAt": "2026-09-30T09:12:02.879Z"
 }
