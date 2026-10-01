@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "8e6607e0-0eb3-4c9a-a009-c5e1f2326b8e",
+      "author": "member-1789391272279",
+      "text": "아웅 귀여워!",
+      "image": null,
+      "createdAt": "2026-10-01T14:51:27.592Z"
+    }
+  ],
   "createdAt": "2026-09-30T15:27:42.422Z",
-  "updatedAt": "2026-09-30T15:27:46.630Z"
+  "updatedAt": "2026-10-01T14:51:27.592Z"
 }
