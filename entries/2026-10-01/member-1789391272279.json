@@ -15,7 +15,15 @@
     "밥-먹기": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "2af0c3bf-3939-469f-856a-38276dddaeef",
+      "author": "산웅",
+      "text": "편의점?! 내가 옆에서 도시락 싸 보냈어야 하는데!",
+      "image": null,
+      "createdAt": "2026-10-01T15:05:13.169Z"
+    }
+  ],
   "createdAt": "2026-10-01T14:55:12.773Z",
-  "updatedAt": "2026-10-01T14:55:16.812Z"
+  "updatedAt": "2026-10-01T15:05:13.171Z"
 }
