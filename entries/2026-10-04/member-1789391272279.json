@@ -17,7 +17,15 @@
     "밥-먹기": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "93bc7908-b20e-41f0-86eb-07359b40d77d",
+      "author": "산웅",
+      "text": "무려 셔츠를 입고 다녀온 게 쌀 축제였다고?!",
+      "image": null,
+      "createdAt": "2026-10-05T08:31:03.782Z"
+    }
+  ],
   "createdAt": "2026-10-05T07:44:11.881Z",
-  "updatedAt": "2026-10-05T07:44:39.741Z"
+  "updatedAt": "2026-10-05T08:31:03.782Z"
 }
