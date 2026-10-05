@@ -11,13 +11,13 @@
   "checklist": {
     "sleepHours": null,
     "medication": false,
-    "outing": false,
+    "outing": true,
     "cleaning": false,
     "delivery": false,
-    "밥-먹기": false
+    "밥-먹기": true
   },
   "reactions": {},
   "comments": [],
   "createdAt": "2026-10-05T07:44:11.881Z",
-  "updatedAt": "2026-10-05T07:44:12.236Z"
+  "updatedAt": "2026-10-05T07:44:39.741Z"
 }
