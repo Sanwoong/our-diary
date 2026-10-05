@@ -15,7 +15,15 @@
     "밥-먹기": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "3d2e5462-5ffe-458e-aa82-216d014cf5ec",
+      "author": "산웅",
+      "text": "요즘 광고 10분은 기본이니까 부인은 늦은 것도 아니지요!",
+      "image": null,
+      "createdAt": "2026-10-05T08:34:26.355Z"
+    }
+  ],
   "createdAt": "2026-10-05T08:00:03.431Z",
-  "updatedAt": "2026-10-05T08:00:06.298Z"
+  "updatedAt": "2026-10-05T08:34:26.355Z"
 }
