@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "dc70a16d-5746-4cec-bacc-85e403c9b546",
+      "author": "member-1789391272279",
+      "text": "서방님의 하루를 저로 만들어 버리겠어요! ☆*: .｡. o(≧▽≦)o .｡.:*☆",
+      "image": null,
+      "createdAt": "2026-10-09T14:07:15.130Z"
+    }
+  ],
   "createdAt": "2026-10-09T13:55:26.963Z",
-  "updatedAt": "2026-10-09T13:55:30.602Z"
+  "updatedAt": "2026-10-09T14:07:15.130Z"
 }
