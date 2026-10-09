@@ -14,7 +14,11 @@
     "delivery": false,
     "밥-먹기": false
   },
-  "reactions": {},
+  "reactions": {
+    "😢": [
+      "산웅"
+    ]
+  },
   "comments": [
     {
       "id": "bc3cc829-f936-444c-8209-d615f2e40d02",
@@ -25,5 +29,5 @@
     }
   ],
   "createdAt": "2026-10-08T14:13:02.881Z",
-  "updatedAt": "2026-10-09T13:50:50.995Z"
+  "updatedAt": "2026-10-09T13:55:40.693Z"
 }
