@@ -15,7 +15,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "094300bc-38b3-4358-a226-05b3476d6b02",
+      "author": "member-1789391272279",
+      "text": "그래서 더 매력 넘치죠?",
+      "image": null,
+      "createdAt": "2026-10-09T14:08:22.437Z"
+    }
+  ],
   "createdAt": "2026-10-09T13:52:31.469Z",
-  "updatedAt": "2026-10-09T13:53:05.978Z"
+  "updatedAt": "2026-10-09T14:08:22.437Z"
 }
