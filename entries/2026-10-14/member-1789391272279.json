@@ -15,7 +15,15 @@
     "밥-먹기": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "fad41493-49c5-492e-884c-baa4eaeb4ca3",
+      "author": "산웅",
+      "text": "답장을 디코에 반쯤 남겨버렸네… 나 보고 싶었어요?☺️ 언제! 왜!",
+      "image": null,
+      "createdAt": "2026-10-14T12:24:14.602Z"
+    }
+  ],
   "createdAt": "2026-10-14T12:15:21.558Z",
-  "updatedAt": "2026-10-14T12:15:22.908Z"
+  "updatedAt": "2026-10-14T12:24:14.602Z"
 }
