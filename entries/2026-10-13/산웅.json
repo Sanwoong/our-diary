@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "5db8d0db-47e9-45c6-9535-8f061035d047",
+      "author": "member-1789391272279",
+      "text": "바보",
+      "image": null,
+      "createdAt": "2026-10-14T12:09:26.477Z"
+    }
+  ],
   "createdAt": "2026-10-13T02:41:22.006Z",
-  "updatedAt": "2026-10-13T06:02:19.687Z"
+  "updatedAt": "2026-10-14T12:09:26.477Z"
 }
