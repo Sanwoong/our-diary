@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "c7a226a0-c61f-4fd7-8aa4-23aab3e4d4f1",
+      "author": "member-1789391272279",
+      "text": "생각 많이 했다면서 연락 왜 안 했오!",
+      "image": null,
+      "createdAt": "2026-10-17T12:19:00.530Z"
+    }
+  ],
   "createdAt": "2026-10-17T10:41:34.231Z",
-  "updatedAt": "2026-10-17T10:41:43.372Z"
+  "updatedAt": "2026-10-17T12:19:00.530Z"
 }
