@@ -13,7 +13,11 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "❤️": [
+      "member-1789391272279"
+    ]
+  },
   "comments": [
     {
       "id": "c7a226a0-c61f-4fd7-8aa4-23aab3e4d4f1",
@@ -45,5 +49,5 @@
     }
   ],
   "createdAt": "2026-10-17T10:41:34.231Z",
-  "updatedAt": "2026-10-17T13:36:11.094Z"
+  "updatedAt": "2026-10-17T13:49:59.388Z"
 }
