@@ -14,8 +14,12 @@
     "cleaning": true,
     "delivery": true
   },
-  "reactions": {},
+  "reactions": {
+    "❤️": [
+      "member-1789391272279"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-10-22T08:20:24.480Z",
-  "updatedAt": "2026-10-22T08:20:37.156Z"
+  "updatedAt": "2026-11-06T14:57:25.739Z"
 }
