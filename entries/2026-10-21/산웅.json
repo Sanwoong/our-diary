@@ -15,7 +15,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "f2df74d4-4c2b-4dd0-8e12-c2aaf4356d8b",
+      "author": "member-1789391272279",
+      "text": "무슨 힘든 일! 내가 회사 뿌수께요!",
+      "image": null,
+      "createdAt": "2026-11-06T14:59:58.848Z"
+    }
+  ],
   "createdAt": "2026-10-21T06:09:01.138Z",
-  "updatedAt": "2026-10-21T06:09:02.406Z"
+  "updatedAt": "2026-11-06T14:59:58.848Z"
 }
