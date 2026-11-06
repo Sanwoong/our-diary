@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "37d3be44-88fe-4bc4-b404-ef0db0a8bb9f",
+      "author": "member-1789391272279",
+      "text": "뭐 라 고",
+      "image": null,
+      "createdAt": "2026-11-06T14:56:05.968Z"
+    }
+  ],
   "createdAt": "2026-10-23T23:03:53.439Z",
-  "updatedAt": "2026-10-23T23:03:59.356Z"
+  "updatedAt": "2026-11-06T14:56:05.968Z"
 }
